@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "vue": "^2.6.6",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "bulma": "^0.7.4",
+    "element-ui": "^2.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
